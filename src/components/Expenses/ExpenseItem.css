@@ -1,0 +1,36 @@
+.expense-item-date {
+    display: inline;
+    border: 1px solid #CCC;
+    border-radius: 3px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 18%;
+}
+
+.expense-item-date p {
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.expense-item-data {
+    display: flex;
+    width: 82%;
+}
+
+.expense-item-title {
+    display: inline;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    min-width: 80%;
+}
+
+.expense-item-value {
+    display: inline;
+    margin: auto;
+    padding: 10px;
+    color: blueviolet;
+    font-weight: 600;
+    border: 1px solid blueviolet;
+    min-width: 15%;
+    text-align: center;
+}

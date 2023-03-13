@@ -1,0 +1,12 @@
+.expenses-list-empty-response {
+    padding: 20px;
+    border: 1px dotted burlywood;
+    margin-top: 20px;
+    color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+}
+
+.expenses-list-container {
+    margin-top: 20px;
+}

@@ -1,0 +1,7 @@
+.expense-card {
+    padding: 10px;
+    border: 1px dotted burlywood;
+    border-radius: 3px;
+    display: flex;
+    margin-top: 10px;
+}

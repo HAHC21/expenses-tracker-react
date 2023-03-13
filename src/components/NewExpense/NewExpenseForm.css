@@ -1,0 +1,54 @@
+.new-expense-form {
+    width: 100%;
+    text-align: center;
+}
+
+.new-expense-form-input-container {
+    display: inline;
+}
+
+.new-expense-form-input-container > label {
+    margin-right: 10px;
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.new-expense-form-input-item {
+    height: 30px;
+    border: 1px solid #CCC;
+    margin-right: 10px;
+    text-indent: 10px;
+    color: #333;
+    min-width: 170px;
+    border: 1px solid rgb(166, 104, 224, 0.6);
+    border-radius: 3px;
+}
+
+.new-expense-form-button-container {
+    margin-top: 20px;
+    display: block;
+    text-align: right;
+}
+
+.new-expense-form-button-add-expense {
+    margin: auto;
+}
+
+.new-expense-form-button-add-expense, .new-expense-form-button-save-expense {
+    background-color: blueviolet;
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.new-expense-form-button-cancel {
+    background-color: chocolate;
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}

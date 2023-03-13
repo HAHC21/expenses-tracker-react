@@ -1,0 +1,28 @@
+.expenses-filter-container {
+    border: 1px dotted chocolate;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.expenses-filter-controls {
+    display: block;
+    text-align: right;
+}
+
+.expenses-filter-controls label {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 10px;
+    color: chocolate;
+}
+
+.expenses-filter-controls select {
+    background-color: chocolate;
+    color: wheat;
+    height: 30px;
+    width: 70px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+}

@@ -1,0 +1,9 @@
+.expenses-chart-container {
+    padding: 0px;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 10rem;
+    margin-top: 20px;
+}
